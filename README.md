@@ -1,4 +1,4 @@
-# 🌟 Rafayel SBC Control (Megapack V9)
+# 🌟 Rafayel SBC Control
 
 Welcome to the ultimate, all-in-one browser extension built by **Rafayel Babayan**. 
 This is not just an AdBlocker; it's a complete command center designed for ultimate focus, gaming, and web control.
